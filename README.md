@@ -1,6 +1,6 @@
 # Floppy Bird
 
-This is a NeuroEvolution AI implementation of Flappy Bird using NEAT and Python.
+This is a NeuroEvolution AI implementation of Flappy Bird using NEAT and Python. Credit to [seethesaenz](https://github.com/seethesaenz/) for developing the game engine!
 
 ## Installation:
 1. Extract all files
